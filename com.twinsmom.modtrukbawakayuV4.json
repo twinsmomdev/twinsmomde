@@ -1,0 +1,93 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"80d63abb-edf0-44e2-b7f8-4d9b9d122cbf",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"Bawakayu",
+         "title":"Cuanter Bambu",
+         "image":"https://i.imgur.com/aRCZ2en.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/CANTER%20BAMBU.bussidmod",
+         "link_livery":"https://archive.org/download/modtrukbawakayu/CANTER%20BAMBU.png"
+      },
+      {
+         "id":2,
+         "category":"Bawakayu",
+         "title":"Cuanter Gayor Kayu",
+         "image":"https://i.imgur.com/IKZ9qJO.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/Canter%20Gayor%20Kayu.bussidmod",
+         "link_livery":"https://archive.org/download/modtrukbawakayu/Canter%20Gayor%20Kayu.png"
+      },
+      {
+         "id":3,
+         "category":"Bawakayu",
+         "title":"Fueso Muat Kayu",
+         "image":"https://i.imgur.com/o6h0XP3.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/Fuso%20Muat%20Kayu.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":4,
+         "category":"Bawakayu",
+         "title":"Fueso Trailer",
+         "image":"https://i.imgur.com/SIzEQFP.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/fuso%20tr%20cvt.bussidvehicle",
+         "link_livery":"null"
+      },
+      {
+         "id":5,
+         "category":"Bawakayu",
+         "title":"Fueso Umplung",
+         "image":"https://i.imgur.com/MXJA0PJ.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/FusoUmplungKayu.bussidmod",
+         "link_livery":"https://archive.org/download/modtrukbawakayu/FusoUmplungKayu.png"
+      },
+      {
+         "id":6,
+         "category":"Bawakayu",
+         "title":"Isszuzu Muat Kayu Thailook",
+         "image":"https://i.imgur.com/Bk2oPyj.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/Isuzu%20Muat%20Kayu%20Thailook.bussidmod",
+         "link_livery":"https://archive.org/download/modtrukbawakayu/Isuzu%20Muat%20Kayu%20Thailook.png"
+      },
+      {
+         "id":7,
+         "category":"Bawakayu",
+         "title":"SiNissn UD Bambu",
+         "image":"https://i.imgur.com/ZpCGmts.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/Nissan%20UD%20Angkut%20Bambu.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"Bawakayu",
+         "title":"Fueso Balak",
+         "image":"https://i.imgur.com/oKfKL36.jpg",
+         "link_mods":"https://archive.org/download/modtrukbawakayu/Truck%20Fuso%20Balak.bussidmod",
+         "link_livery":"null"
+      }
+   ]
+}

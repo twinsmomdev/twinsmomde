@@ -1,0 +1,101 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"80d63abb-edf0-44e2-b7f8-4d9b9d122cbf",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"Sawitan",
+         "title":"Cuanter Dump Bersih",
+         "image":"https://i.imgur.com/MViVrJg.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20BersihKotor.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20Bersih.png"
+      },
+      {
+         "id":2,
+         "category":"Sawitan",
+         "title":"Cuanter Dump Kotor Livery Only",
+         "image":"https://i.imgur.com/MViVrJg.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20BersihKotor.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20Kotor.png"
+      },
+      {
+         "id":3,
+         "category":"Sawitan",
+         "title":"Cuanter Dump Sawit",
+         "image":"https://i.imgur.com/Hxwa9JH.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20Sawit.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Canter%20Dump%20Sawit.png"
+      },
+      {
+         "id":4,
+         "category":"Sawitan",
+         "title":"Cuanter Tronton Sawit",
+         "image":"https://i.imgur.com/5ls0pIQ.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Canter%20Tronton%20Sawit.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Canter%20Tronton%20Sawit.png"
+      },
+      {
+         "id":5,
+         "category":"Sawitan",
+         "title":"Ghiga Kalimantan",
+         "image":"https://i.imgur.com/gl7vFHS.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Giga%20Kalimantan.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Giga%20Kalimantan.png"
+      },
+      {
+         "id":6,
+         "category":"Sawitan",
+         "title":"Huino C24",
+         "image":"https://i.imgur.com/L0xl2RC.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Hino%20C24.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/HINO%20C24.png"
+      },
+      {
+         "id":7,
+         "category":"Sawitan",
+         "title":"Huino Sawit",
+         "image":"https://i.imgur.com/YnQNeg5.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/HINO%20sawit.bussidmod",
+         "link_livery":"https://archive.org/download/sawitkalimantan/HINO%20sawit.png"
+      },
+      {
+         "id":8,
+         "category":"Sawitan",
+         "title":"Issuzi NKRDump",
+         "image":"https://i.imgur.com/kcCy1tt.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Isuzu%20NKR%20Dump.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"Sawitan",
+         "title":"Cuanter Bak Sawit",
+         "image":"https://i.imgur.com/WYc3PU6.jpg",
+         "link_mods":"https://archive.org/download/sawitkalimantan/Canter%20Bak%20%20Sawit.bussidvehicle",
+         "link_livery":"https://archive.org/download/sawitkalimantan/Canter%20Bak%20%20Sawit%202.png"
+      }
+   ]
+}
